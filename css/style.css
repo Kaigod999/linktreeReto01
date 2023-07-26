@@ -58,6 +58,7 @@ li {
 }
 
 .botonplaylist {
+    text-decoration: none;
     background-color: white;
     padding: 20px;
     padding-top: 15px;
